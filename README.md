@@ -20,6 +20,5 @@ This project simulates a portal for 4 hackathon tracks:
 HTML5 (Semantic structure)
 CSS3 (Custom properties, Flexbox, Grid, Media Queries)
 JavaScript (ES6+, DOM Manipulation, Canvas API)
-👥 Developers
-Designed and built by Mujtaba and Ahmed.  
+ 
 Disclaimer: This is a student project created for educational purposes and is not the official portal for an active event.
